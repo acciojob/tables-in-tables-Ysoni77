@@ -1,18 +1,5 @@
-
 /* Your CSS Code here. */
-*{
-	box-sizing:border-box;
+#color{
+	background-color:black;
+	color:white;
 }
-table, th, td , tr{
-      border: 1px solid black;
-      padding: 2px;
-	  box-sizing:border-box;
-	  
-    }
-
-    .black-cell {
-      background-color: black;
-      color: white;
-		text-align: center;
-	
-    }
